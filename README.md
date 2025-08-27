@@ -46,8 +46,17 @@ Backend system (FastAPI + MySQL + n8n + Hunter.io API) with login, data enrichme
 
 ---
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-shaikh-a4b88128b)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANAS825)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasshaik825@gmail.com)  
+<p align="center">
+  <a href="https://linkedin.com/in/anas-shaikh-a4b88128b" target="_blank">
+    <img align="center" alt="LinkedIn" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
+  <a href="https://github.com/ANAS825" target="_blank">
+    <img align="center" alt="GitHub" width="40px" style="padding-right:25px; background-color:black; border-radius:50%;" 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  </a>
+  <a href="mailto:anasshaik825@gmail.com">
+    <img align="center" alt="Email" width="40px" style="padding-right:25px;" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
+  </a>
+</p>
 
 ---
