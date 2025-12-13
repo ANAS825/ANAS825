@@ -2,7 +2,7 @@
 
  **Software Engineer | AI & Data Science Enthusiast | Backend Developer**  
 
-Detail-oriented and analytical Software Engineer with a strong foundation in software development and system design. Skilled in building efficient, scalable applications using Python (Flask & FASTAPI). Experienced in developing backend APIs and optimizing deployment workflows through DevOps practices, including AWS, CI/CD pipelines, and Terraform. Proficient in debugging, code optimization, and collaborating in agile development environments. Strong problem-solving and communication skills, with a passion for creating robust and user-centric software solutionS. Always eager to learn new technologies  and grow, I strive to combine creativity with technical expertise to deliver meaningful projects.
+Detail-oriented and analytical Software Engineer with a strong foundation in software development and system design. Skilled in building efficient, scalable applications using Python (Flask & FASTAPI). Experienced in developing backend APIs and optimizing deployment workflows through DevOps practices, including AWS, CI/CD pipelines, and Terraform. Strong problem-solving and communication skills, with a passion for creating robust and user-centric software solutions. Always eager to learn new technologies  and grow, I strive to combine creativity with technical expertise to deliver meaningful projects.
 ---
 
 ## 🛠️ Tech Stack  
