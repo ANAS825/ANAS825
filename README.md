@@ -29,6 +29,11 @@ I’m a dedicated Software Engineer with a strong foundation in problem-solving,
   <img align="center" alt="Docker" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img align="center" alt="Bash" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
   <img align="center" alt="n8n" width="40px" style="padding-right:25px;" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4"/>
+
+  <!-- Deops -->
+  <img align="center" alt="AWS" width="40px" style="padding-right:25px;" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4"/>
+  <img align="center" alt="Terraform" width="40px" style="padding-right:25px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"/>
+
 </p>
 
 ---
