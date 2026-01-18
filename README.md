@@ -12,7 +12,8 @@ Detail-oriented and analytical Software Engineer with a strong foundation in sof
   <img align="center" alt="Python" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="FastAPI" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
   <img align="center" alt="Django" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img align="center" alt="Flask" width="40px" style="margin-right:25px; background-color: white; padding: 4px; border-radius: 4px;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"/>  
+  <img align="center" alt="Flask with white background" width="40px" style="padding-right:25px; background-color: white; border-radius: 4px; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"/>
+
   <!-- Databases -->
   <img align="center" alt="MySQL" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="PostgreSQL" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
